@@ -1,2 +1,2 @@
 #!/bin/bash
-cd -
+rm /tmpmy_first_directory
