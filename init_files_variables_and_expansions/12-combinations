@@ -1,2 +1,4 @@
 #!/bin/bash
-for a in {a..z};do for b in {a..z};do if [ $a$b != oo ];then p
+for i in {a..z};do for j in {a..z};do [ $i$j != oo ]&&echo $i$j;done;donegit add . 
+git commit -m "-----"
+git push
