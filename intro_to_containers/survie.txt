@@ -1,0 +1,1 @@
+Ce fichier va survivre à la mort du conteneur
